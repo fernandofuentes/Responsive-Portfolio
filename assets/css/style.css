@@ -328,6 +328,17 @@ footer p {
     margin: 0 0 40px 0;
     padding: 40px 0 40px 0;
   }
+  .project-wrapper {
+    position: relative;
+    text-align: center;
+    margin: 0;
+    width: 100%;
+    float: left;
+    margin-bottom: 18px;
+  }
+  .float-right {
+    margin-left: 0px;
+  }
   aside {
     width: 100%;
     height: auto;
